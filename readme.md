@@ -1,4 +1,4 @@
-# Weather Forecasting Using Machine Learning
+# Weather Trend Forecasting
 ![Project Image](images/image.png)
 
 ## Project Overview
